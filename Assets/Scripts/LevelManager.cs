@@ -6,6 +6,7 @@ public class LevelManager : MonoBehaviour {
 
 	public void LoadLevel(string name) {
 		SceneManager.LoadScene(name);
+			Brick.brickCount = 0;
 	}
 	
 	public void QuitRequest() {
@@ -13,7 +14,9 @@ public class LevelManager : MonoBehaviour {
 	}
 
 	public void LoadNextLevel() {
+		Brick.brickCount = 0;
 		SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);
+
 	}
 
 	public void BrickDestroyed() {
