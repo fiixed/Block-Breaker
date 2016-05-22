@@ -1,9 +1,10 @@
 ﻿<Properties StartupItem="Assembly-CSharp.csproj">
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/LevelManager.cs">
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="../../Downloads/UiA_code/ch05/Assets/Scripts/UIButton.cs">
     <Files>
-      <File FileName="Assets/Scripts/MusicPlayer.cs" Line="8" Column="16" />
-      <File FileName="Assets/Scripts/LevelManager.cs" Line="8" Column="50" />
+      <File FileName="../../Downloads/UiA_code/ch05/Assets/Scripts/MemoryCard.cs" Line="1" Column="1" />
+      <File FileName="../../Downloads/UiA_code/ch05/Assets/Scripts/SceneController.cs" Line="1" Column="1" />
+      <File FileName="../../Downloads/UiA_code/ch05/Assets/Scripts/UIButton.cs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
